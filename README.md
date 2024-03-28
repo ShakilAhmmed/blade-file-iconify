@@ -23,11 +23,7 @@ composer shakilahmmed/blade-file-iconify
 
 Please refer to [`the upgrade guide`](UPGRADE.md) when updating the library.
 
-## Configuration
-
-Blade File Iconify also offers the ability to use features from Blade Icons like default classes, default attributes,
-etc. If you'd like to configure these, publish the `blade-file-iconify.php` config file:
-
+## Configuration [Must Needed]
 ```bash
 php artisan vendor:publish --tag=blade-file-iconify
 ```

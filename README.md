@@ -16,7 +16,7 @@ For a full list of available icons see [the SVG directory](resources/svg).
 ## Installation
 
 ```bash
-composer shakilahmmed/blade-file-iconify
+composer require shakilahmmed/blade-file-iconify
 ```
 
 ## Updating
